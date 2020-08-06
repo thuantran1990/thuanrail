@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ten: MyString
+  NXB: MyString
+  time_publish: 2020-08-05 15:27:16
+
+two:
+  ten: MyString
+  NXB: MyString
+  time_publish: 2020-08-05 15:27:16
